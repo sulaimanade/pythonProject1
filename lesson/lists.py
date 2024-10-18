@@ -32,7 +32,7 @@ students.clear() #the .clear helps to clear all values within a list
 print(students)
 
 flavor = ["Vanila", "Chocolate","Strawberry", "Banana"]
-flavor.pop() #with .pop we can pop out the last value in a list
+flavor.pop() #with .pop we can pop out (delete) the last value in a list
 print(flavor)
 
 flavor = ["Vanila", "Chocolate","Strawberry", "Banana"]
