@@ -42,7 +42,7 @@ my_flavor = ["Vanila", "Chocolate","Strawberry", "Banana", "Vanila"]
 print(my_flavor.count("Vanila"))
 
 my_flavor = ["Vanila", "Chocolate","Strawberry", "Banana", "Vanila"]
-my_flavor.sort()
+my_flavor.sort() #this helps to sort the list values in order
 print(my_flavor)
 
 just_numbers = [2, 4,1,2,8,45,86]
