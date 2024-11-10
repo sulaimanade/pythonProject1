@@ -21,6 +21,7 @@ monthConversions = {
 
 
 print(monthConversions["Nov"])
+print(monthConversions.get("Oct"))
 print(monthConversions[100])
 
 
