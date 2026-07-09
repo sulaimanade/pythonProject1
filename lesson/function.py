@@ -1,6 +1,6 @@
 #FUNCTION is a little block of code that we can run to perform a specific operation
 #we use a keyword called def to write a function in python
-#code included in a function must be indented
+#code included in a function must be indented,
 #you can include as many line of code as you want in a function
 #you can pass in one or more parameters in a function, below we pass in the parameter: name.
 
