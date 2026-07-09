@@ -1,4 +1,4 @@
-# Inheritance is simply when a class inherit the attributes of another class
+# Inheritance is simply when a class inherits the attributes of another class
 class Chef:
 
     def make_chicken(self):
