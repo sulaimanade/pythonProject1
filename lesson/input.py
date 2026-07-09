@@ -1,4 +1,4 @@
-#INPUT function: allows users to input value
+#INPUT function: allows users to input value(s)
 name = input("what is your name?")
 Age = input("how old are you?")
 print("welcome, " + name + ", you are " + Age + " years old")
