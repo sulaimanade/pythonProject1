@@ -3,8 +3,7 @@
 #statement. The code in a while clause will be executed as long as the while
 #statement’s condition is True.
 
-#In code, a while statement always consists of
-#the following:
+#In code, a while statement always consists of the following:
 #•	 The while keyword
 #•	 A condition (that is, an expression that evaluates to True or False)
 #•	 A colon
