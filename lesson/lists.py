@@ -1,4 +1,4 @@
-#LISTS. working with lists
+#LISTS. working with lists in python
 #Lists helps us to work with large set of data, it helps us to store multiple values into a List, variable stores a single value.
 friends = ["Adam", "Saheed", 20, "Sumayyah", "Mustapha", True] #Lists accepts values of different types
 print(friends)
